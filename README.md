@@ -11,7 +11,7 @@ These folders contain all the activities we did together in class. Each one is o
 
 📂 Handson-3: This one includes more advanced examples as we progressed in class. Practical implementations helped reinforce the concepts we discussed.
 
-📂 Handson-5: Freshly added! This folder contains our most recent class session, including additional notes and examples. 🆕
+📂 Handson-4: Freshly added! This folder contains our most recent class session, including additional notes and examples. 🆕
 
 💡 These folders are based on in-class activities and reflect real-time learning with the instructor. Great for refreshing key concepts later!
 
