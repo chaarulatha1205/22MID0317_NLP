@@ -1,6 +1,6 @@
 #👩‍💻 Add Me - Hands-on Activities and Code Snippets
 
-Welcome to my repository! This space is dedicated to all the hands-on sessions, class practice, and bonus learning materials I’ve compiled. Here's a breakdown of what you'll find here and why it matters! 🚀
+##Welcome to my repository! This space is dedicated to all the hands-on sessions, class practice, and bonus learning materials I’ve compiled. Here's a breakdown of what you'll find here and why it matters! 🚀
 
 📁 Folders from Our Class Sessions:
 These folders contain all the activities we did together in class. Each one is organized by date or session number to keep it neat and easy to follow:
